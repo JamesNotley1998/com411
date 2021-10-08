@@ -7,3 +7,8 @@ print("\'Displays a single quote")
 print("\n")
 print("I am Beep!")
 print("\n")
+# Display a box
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
