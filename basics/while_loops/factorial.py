@@ -1,13 +1,16 @@
-#Enter number
+#Ask user for number
 print ("Please enter a number")
 number = int(input())
 
-#Calculate factorial
+#Factorial variable
 count = 0
 total = 1
 
 while count < number:
-    count = count + 1
+    count = total + 1
     total = total * count
 
 print(f"The factorial is {total}.")
+
+
+
